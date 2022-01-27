@@ -16,6 +16,8 @@ The possible combinations for an entire key without duplicates is:
 2. Run `Encodid_Rewrite.exe`(or your desktop shortcut) to rewrite the key in `key.txt`. The key is set to "0" and must be changed. A new and unique sequence will always be given.
 3. Run `Encodid.exe`(or your desktop shortcut) to encode or decode text. `Encodid` automatically decodes a sequence if it can, otherwise it will encode it, allowing you, the user, to type anything into the intake, and expect the correct outtake.
 
+**IMPORTANT NOTE:** Antivirus applications may detect the script as a virus or malware. If you wish to use the application, add an exception to your antivirus applications for `Encodid.exe` and `Encodid_Rewrite.exe`.
+
 ### Keys
 To share a key, simply upload the text file for others to download.
 
